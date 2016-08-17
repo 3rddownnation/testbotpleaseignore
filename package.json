@@ -1,0 +1,26 @@
+{
+  "name": "discord-bot-modular",
+  "version": "0.0.1",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "discord.js": "^8.0.0",
+    "download": "^5.0.2",
+    "imgur": "^0.1.7",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.14.1",
+    "mysql": "^2.11.1",
+    "request": "^2.72.0",
+    "sanitize-filename": "^1.6.0",
+    "sequelize": "^3.23.4",
+    "winston": "^2.2.0"
+  },
+  "scripts": {
+    "nodemon": "nodemon main.js"
+  },
+  "license": "GPL-3.0",
+  "description": "A modular discord bot",
+  "repository": {
+    "type": "git",
+    "url": "git+https://git.0x0f.net/visi/maeve.git"
+  }
+}

@@ -1,0 +1,14 @@
+.idea/
+node_modules/
+
+### bot folders
+# Part of logger module, contains logs
+log/
+# Part of the attachment-downloader module
+dl/
+# Part of the commands module, contains files registered to commands
+img/
+
+config.js
+
+npm-debug*
